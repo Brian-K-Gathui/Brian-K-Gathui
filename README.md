@@ -3,12 +3,10 @@
 I’m a **Software Engineer & Cybersecurity Enthusiast** based in Nairobi, Kenya 🇰🇪  
 I hold a BSc (Hons) in Computing from Glasgow Caledonian University—and I’m passionate about building secure, user-friendly applications.  
 
----
-
-## 🔭 Recently Worked On
+# 🔭 Recently Worked On
 - **SpendWise** – An intuitive, cross‑platform expense tracker that helps you set budgets, manage wallets & visualize spending trends.
 
-## 🌱 Learning & Exploring
+# 🌱 Learning & Exploring
 - Advanced **Network Security** & **Threat Intelligence**  
 - Secure **Software Development** practices & DevSecOps  
 
