@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Brian Gathui
+# 👋🏾 Hi there, I’m Brian Gathui
 
 I’m a **Software Engineer & Cybersecurity Enthusiast** based in Nairobi, Kenya 🇰🇪  
 I hold a BSc (Hons) in Computing from Glasgow Caledonian University—and I’m passionate about building secure, user-friendly applications.  
